@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kacpx-PL
+- Electronics "Engineer ^(Not yet)^"
   
 <!---
 Kacpx-PL/Kacpx-PL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
