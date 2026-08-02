@@ -1,4 +1,4 @@
-- Electronics "Engineer (Not yet)"
+- Electronics "*Engineer* (Not yet)"
 - I also like chips (the silicon ones)
   
 <!---
